@@ -26,3 +26,6 @@ operationFunction(operator){
       temp = input value
       input value = ' '
 } percent() negative()
+
+
+CSS => ::-webkit-input-placeholder //customises input placeholder
