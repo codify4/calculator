@@ -1,2 +1,2 @@
-# calculator
-a copy of iphones calculator
+# Calculator
+A copy of Iphone's calculator
