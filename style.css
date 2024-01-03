@@ -26,6 +26,7 @@ body{
     border-radius: 25px;
     padding-bottom: 50px;
 }
+
 .screen{
     position: absolute;
     top: 30%;
@@ -47,10 +48,12 @@ body{
     background-color: var(--grayBtn);
     color: black;
 }
+
 .orangeBtn button{
     background-color: #FF9500;
     color: white;
 }
+
 .functionBtn button{
     border: none;
     border-radius: 50%;
@@ -225,4 +228,8 @@ body{
 }
 .numberBtn button:hover{
     background-color: #7c7c7c;
+}
+
+::-webkit-input-placeholder{
+    color: #ffffff;
 }
